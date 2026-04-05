@@ -36,3 +36,4 @@ FinanceRAG is a Retrieval-Augmented Generation (RAG) system designed to answer f
 ## 👩‍💻 Author
 
 Tanushka Sharma
+Tanisha
